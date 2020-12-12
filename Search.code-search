@@ -1,0 +1,20 @@
+# Query: bg-primary
+# ContextLines: 1
+
+6 results - 2 files
+
+index.html:
+  19          <!-- Navigation-->
+  20:         <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+  21              <a class="navbar-brand js-scroll-trigger" href="#page-top">
+
+css/styles.css:
+  6076  
+  6077: .bg-primary {
+  6078    background-color: #0C4A60 !important;
+
+  6080  
+  6081: a.bg-primary:hover, a.bg-primary:focus,
+  6082: button.bg-primary:hover,
+  6083: button.bg-primary:focus {
+  6084    background-color: #964a2c !important;
